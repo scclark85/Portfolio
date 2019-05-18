@@ -1,0 +1,47 @@
+.jumbotron{
+    border-radius: 0 !important;
+}
+
+/* home page css */
+.home-nav{
+    background-color: rgb(84, 124, 154);
+    padding-top: 20px;
+}
+
+#main-link{
+    font-size: 13px;
+    color: #FFFFFF;
+}
+
+.App-header {
+    background-color: rgb(84, 124, 154);
+    min-height: 95vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+  }
+  
+#name{
+    font-size: 80px;
+}
+
+#headline{
+    font-size: 20px;
+}
+
+/* about page */
+#about-title{
+    min-height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 80px;
+}
+
+.taj{
+    height: 260px;
+}
