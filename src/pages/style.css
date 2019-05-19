@@ -42,6 +42,46 @@
     font-size: 80px;
 }
 
+#about{
+    color: rgb(49, 49, 49);
+}
+
 .taj{
     height: 260px;
+}
+
+.pups{
+    height: 260px;
+}
+
+/* portfolio page */
+
+
+/* resume page */
+.resume {
+    height: 130vh;
+    width: 115vh;
+}
+
+#resume-title{
+    min-height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 70px;
+}
+
+#resume-title-2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+}
+
+.pdf{
+    color: white !important;
 }
