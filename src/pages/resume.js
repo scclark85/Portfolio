@@ -36,7 +36,7 @@ class Resume extends Component {
 
                 <div className="container">
 
-                    <div>
+                    <div className="screen-resume">
                         <img
                             src="/images/Sarah_Clark_Resume.png"
                             className="resume"
