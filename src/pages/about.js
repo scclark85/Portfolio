@@ -45,9 +45,9 @@ class About extends Component {
                             <div className="col-8">
                                 <h3>How it all began...</h3>
                                 <br />
-                                <p>Born and raised in Wisconsin, I have always been a creative thinker.  Maybe it was from traveling around the world and realizing my love for art and architecture or maybe its because I've always had a visual mind.  Regardless, I found what I enjoy doing, and what I am good at so I moved to the big city of Chicago and received my Bachelor of Fine Art’s in Interior Design.</p>
+                                <p>During my school years in Racine, WI, I realized that I have a visual eye and a passion for creative problem-solving. My interest in design and architecture only increased while living in Mexico City and Milan and having the opportunity to travel to various places around the world.</p>
 
-                                <p>Throughout my career, I’ve had great opportunities and strong learning experiences beginning as an Intern, to working in customer service, to selling, to managing and owning a business.  These experiences have made me the person I am today and have led me in the direction I’m in.</p>
+                                <p>To build my creative expertise, I graduated with a Bachelor of Fine Arts in Interior Design in Chicago. Throughout my career, I’ve had strong learning experiences ranging from design consultation to customer service to sales to business management and entrepreneurship. These opportunities have made me the person I am today and have shaped where I want to go next.</p>
                             </div>
                             <br />
                         </div>
@@ -58,7 +58,11 @@ class About extends Component {
                             <div className="col-11">
                                 <h3>Why web development?</h3>
                                 <br />
-                                <p>Having a background in Design is definitely fulfilling, but I am ready to take my skills to the next level.  A casual conversation with a family member in the IT industry, about web development, turned into something I’m passionate and excited about.  That’s how my career in web development got started.  I taught myself the basics, then took a class and realized, “wow, I really do like this.”  We are in the age where digital is taking over, and I want to be a part of it.  I want to contribute the skills I already have and continue to grow.  Plus, it helps that I enjoy solving problems in a creative way.  </p>
+                                <p>While I find my design background fulfilling, I’m excited to couple that with my newly acquired technical skills to take my career to the next level. </p>
+
+                                <p>My interest in web development started with a casual conversation with a family member in the IT industry and has turned into a career path that I’ve become passionate and excited about. I first taught myself the basics, then took a class and realized, “wow, I really like this and am serious about it.”  From there I completed the University of Arizona Coding Bootcamp—a 12-week intensive program in user interface, database design and essential programming languages—and have taken on various freelance projects to advance my technical expertise. </p>
+
+                                <p>We are in the age where digital is taking over, and I want to be a part of it.  I’m eager to contribute the skills that I already have and continue to learn and grow. With my design background, business experience and growing technical expertise, I am ready to solve new problems and drive impact in an innovative, fast-paced environment.</p>
                             </div>
                         </div>
 
@@ -66,9 +70,9 @@ class About extends Component {
                             <div className="col-8">
                                 <h3>Who is Sarah?</h3>
                                 <br />
-                                <p>If I’m not building web applications, I am most likely hanging out with my two little pups, Foxy and Mia, and/or my family, checking out new restaurants in the area enjoying some wine, or just relaxing and catching up on some good shows.  I also like hiking and traveling as this inspires me and teaches me new things.</p>
+                                <p>If I’m not building web applications, I’m most likely hanging out with my two little pups, Foxy and Mia, and my family and friends, checking out new restaurants in the area, enjoying some wine, or just relaxing and catching up on my favorite shows.  I also enjoy hiking and traveling, which has always inspired me.</p>
 
-                                <p><b>Please feel free to reach out if you'd like to know more or to just connect.</b></p>
+                                <p><b>Please reach out if you’d like to learn more and connect. Thank you for stopping by!</b></p>
                                 <br />
 
                                 <Modal />

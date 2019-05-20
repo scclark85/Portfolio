@@ -6,72 +6,129 @@ class Projects extends Component {
         return (
             <div className="container">
                 {/* Page Heading */}
-                <h1 className="my-4">
-                    Page Heading
-</h1>
+                <h1 className="my-4">Page Heading
+    <small>Secondary Text</small>
+                </h1>
 
                 {/* Project One */}
                 <div className="row">
-                    <div className="col-md-7">
-                        <a href="/">
-                            <img class="img-fluid rounded mb-3 mb-md-0" src="http://placehold.it/700x300" alt="" />
-                        </a>
+                    <div className="col-lg-4 col-sm-6 mb-4">
+                        <div className="card h-100">
+                            <a href={"https://github.com/scclark85/shore-parkway-wellness"}
+                                target="_blank"
+                                rel="noopener noreferrer">
+                                <img class="card-img-top" src="/images/Shore-Pkw-Wellness.png" alt="shore-pkwy" /></a>
+                            <div className="card-body">
+                                <h4 className="card-title">
+                                    <a href={"https://github.com/scclark85/shore-parkway-wellness"}
+                                        target="_blank"
+                                        rel="noopener noreferrer">
+                                        Shore Parkway Wellness</a>
+                                </h4>
+                                <p className="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae? Nihil, dolorem!</p>
+                            </div>
+                        </div>
                     </div>
 
-                    <div className="col-md-5">
-                        <h3>Project One</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.</p>
-                        <a class="btn btn-primary" href="/">View Project</a>
-                    </div>
-                </div>
-                <br />
-
-                {/* Project Two */}
-                <div className="row">
-                    <div className="col-md-7">
-                        <a href="/">
-                            <img class="img-fluid rounded mb-3 mb-md-0" src="http://placehold.it/700x300" alt="" />
-                        </a>
-                    </div>
-
-                    <div className="col-md-5">
-                        <h3>Project One</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.</p>
-                        <a class="btn btn-primary" href="/">View Project</a>
-                    </div>
-                </div>
-                <br />
-
-                {/* Project Three */}
-                <div className="row">
-                    <div className="col-md-7">
-                        <a href="/">
-                            <img class="img-fluid rounded mb-3 mb-md-0" src="http://placehold.it/700x300" alt="" />
-                        </a>
+                    {/* Project Two */}
+                    <div className="col-lg-4 col-sm-6 mb-4">
+                        <div className="card h-100">
+                            <a href={"https://github.com/scclark85/bacc-restoration"}
+                                target="_blank"
+                                rel="noopener noreferrer">
+                                <img class="card-img-top" src="/images/BACC-Restoration.png" alt="" /></a>
+                            <div className="card-body">
+                                <h4 className="card-title">
+                                    <a href={"https://github.com/scclark85/bacc-restoration"}
+                                        target="_blank"
+                                        rel="noopener noreferrer">
+                                        BACC Restoration</a>
+                                </h4>
+                                <p className="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae? Nihil, dolorem!</p>
+                            </div>
+                        </div>
                     </div>
 
-                    <div className="col-md-5">
-                        <h3>Project One</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.</p>
-                        <a class="btn btn-primary" href="/">View Project</a>
+                    {/* Project Three */}
+                    <div className="col-lg-4 col-sm-6 mb-4">
+                        <div className="card h-100">
+                            <a href={"https://banana-cupcake-16306.herokuapp.com/"}
+                                target="_blank"
+                                rel="noopener noreferrer">
+                                <img class="card-img-top" src="/images/GameAdvisor.png" alt="" /></a>
+                            <div className="card-body">
+                                <h4 className="card-title">
+                                    <a href={"https://github.com/scclark85/project3"}
+                                        target="_blank"
+                                        rel="noopener noreferrer">
+                                        GameAdvisor</a>
+                                </h4>
+                                <p className="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae? Nihil, dolorem!</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <br />
 
                 {/* Project Four */}
                 <div className="row">
-                    <div className="col-md-7">
-                        <a href="/">
-                            <img class="img-fluid rounded mb-3 mb-md-0" src="http://placehold.it/700x300" alt="" />
-                        </a>
+                    <div className="col-lg-4 col-sm-6 mb-4">
+                        <div className="card h-100">
+                            <a href={"https://recipe-town.herokuapp.com/"}
+                                target="_blank"
+                                rel="noopener noreferrer">
+                                <img class="card-img-top" src="/images/Recipe-Town.png" alt="" /></a>
+                            <div className="card-body">
+                                <h4 className="card-title">
+                                    <a href={"https://github.com/scclark85/RecipeTown"}
+                                        target="_blank"
+                                        rel="noopener noreferrer">
+                                        Recipe Town</a>
+                                </h4>
+                                <p className="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae? Nihil, dolorem!</p>
+                            </div>
+                        </div>
                     </div>
 
-                    <div className="col-md-5">
-                        <h3>Project One</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.</p>
-                        <a class="btn btn-primary" href="/">View Project</a>
+                    {/* Project Five */}
+                    <div className="col-lg-4 col-sm-6 mb-4">
+                        <div className="card h-100">
+                            <a href={"#"}
+                                target="_blank"
+                                rel="noopener noreferrer">
+                                <img class="card-img-top" src="http://placehold.it/700x400" alt="" /></a>
+                            <div className="card-body">
+                                <h4 className="card-title">
+                                    <a href={"#"}
+                                        target="_blank"
+                                        rel="noopener noreferrer">
+                                        Project One</a>
+                                </h4>
+                                <p className="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae? Nihil, dolorem!</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    {/* Project Six */}
+                    <div className="col-lg-4 col-sm-6 mb-4">
+                        <div className="card h-100">
+                            <a href={"#"}
+                                target="_blank"
+                                rel="noopener noreferrer">
+                                <img class="card-img-top" src="http://placehold.it/700x400" alt="" /></a>
+                            <div className="card-body">
+                                <h4 className="card-title">
+                                    <a href={"#"}
+                                        target="_blank"
+                                        rel="noopener noreferrer">
+                                        Project One</a>
+                                </h4>
+                                <p className="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae? Nihil, dolorem!</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
+                <br />
                 <br />
 
             </div>

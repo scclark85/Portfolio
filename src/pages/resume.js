@@ -30,9 +30,8 @@ class Resume extends Component {
                             >Click here for PDF Version</a>
                         </p>
                     </div>
-
-
                 </div>
+                <br />
 
                 <div className="container">
 
@@ -43,6 +42,7 @@ class Resume extends Component {
                             alt="resume"
                         />
                     </div>
+                    <br />
 
                     <div className="">
                         <Modal />
