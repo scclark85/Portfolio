@@ -8,7 +8,13 @@ class FullNav extends Component {
             <div className="container">
 
                 <Navbar id="page-nav" collapseOnSelect expand="lg">
-                    <Navbar.Brand href="/">SARAH CLARK | FULL STACK WEB DEVELOPER</Navbar.Brand>
+                    <Navbar.Brand href="/">
+                        <img
+                            className="nav_logo"
+                            src="/images/Logo Transparent.png"
+                            alt="nav_logo"
+                        />
+                    </Navbar.Brand>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Collapse id="responsive-navbar-nav">
                         <Nav className="mr-auto">

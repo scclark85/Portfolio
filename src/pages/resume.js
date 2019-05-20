@@ -14,7 +14,7 @@ class Resume extends Component {
                     <Nav />
                 </div>
 
-                <div className="jumbotron"
+                <header className="jumbotron"
                     style={{
                         backgroundColor: "#330033",
                         color: "white"
@@ -30,7 +30,7 @@ class Resume extends Component {
                             >Click here for PDF Version</a>
                         </p>
                     </div>
-                </div>
+                </header>
                 <br />
 
                 <div className="container">

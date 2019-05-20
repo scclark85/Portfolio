@@ -13,7 +13,7 @@ class About extends Component {
                     <Nav />
                 </div>
 
-                <div className="jumbotron"
+                <header className="jumbotron"
                     style={{
                         color: "white",
                         backgroundPosition: "center",
@@ -25,7 +25,7 @@ class About extends Component {
                             <b>ABOUT SARAH</b>
                         </h1>
                     </div>
-                </div>
+                </header>
 
                 <div className="container" >
                     <div id="about">
