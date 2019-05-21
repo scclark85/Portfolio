@@ -181,7 +181,7 @@ class Projects extends Component {
                                             Liri Node App</a>
                                     </h4>
                                     <p className="card-text">LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data. LIRI searches Spotify for songs, Bands in Town for concerts, and OMDB for movies.</p>
-                                    <p className="card-text"><b>Technologies use:</b>JavaScript, Nodejs, npm-Modules: Node-Spotify-API, Moment, DotEnv, Axios, APIs for OMDB and ands in Town.</p>
+                                    <p className="card-text"><b>Technologies use:</b>JavaScript, Nodejs, npm-Modules: Node-Spotify-API, Moment, DotEnv, Axios, APIs for OMDB and Bands in Town.</p>
                                     <p className="card-text"><b>Involvment:</b> Oversaw entire project.  Strengthened my skills with APIs and Nodejs.</p>
                                     <p className="card-text"><b>Please click on image to see demo (there is sound) or image link for GitHub page.</b></p>
                                 </div>
