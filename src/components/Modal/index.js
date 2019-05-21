@@ -37,7 +37,7 @@ class ModalExample extends React.Component {
                     <ModalBody>
                         {/* <Input type="textarea" placeholder="Write something (data should remain in modal if unmountOnClose is set to false)" rows={5} /> */}
                         <div>
-                            <p> Phone: <a className="phone" href="tel:+312-504-5391">
+                            <p> Phone: <a className="phone" href="tel:+(312)504-5391">
                                 312-504-5391
                         </a></p>
                         </div>
