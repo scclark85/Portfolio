@@ -4,7 +4,7 @@ import "./style.css"
 class Projects extends Component {
     render() {
         return (
-            <div className="container">
+            <div className="container">x
 
                 {/* Project One */}
                 <div className="row">
