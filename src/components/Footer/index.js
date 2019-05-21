@@ -10,7 +10,7 @@ const Footer = () => {
                 <br />
 
                     <div className="footer-copyright row justify-content-center">
-                        <p>&copy;{new Date().getFullYear()} <a className="footer-site">Sarah Clark </a></p>
+                        &copy;<p className="footer-site"> SCC</p>{new Date().getFullYear()} 
                     </div>
 
             </div>

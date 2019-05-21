@@ -4,6 +4,7 @@ import Nav from "../components/Nav";
 import Footer from "../components/Footer";
 import Modal from "../components/Modal";
 import Pdf from "../SarahClark_Resume.pdf";
+import { Animated } from "react-animated-css";
 import "./style.css"
 
 class Resume extends Component {
@@ -20,7 +21,7 @@ class Resume extends Component {
                         color: "white"
                     }}>
 
-                    <div id="resume-title">
+                    <Animated className="fadeIn"><div id="resume-title">
                         <b>RESUME</b>
                         <p style={{
                             fontSize: "20px",
@@ -29,7 +30,7 @@ class Resume extends Component {
                                 rel="noopener noreferrer"
                             >Click here for PDF Version</a>
                         </p>
-                    </div>
+                    </div></Animated>
                 </header>
                 <br />
 

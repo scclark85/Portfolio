@@ -20,8 +20,8 @@ class FullNav extends Component {
                         <Nav className="mr-auto">
                         </Nav>
                         <Nav id="navbar-link">
+                            <Nav.Link href="/"><b>PORTFOLIO</b></Nav.Link>
                             <Nav.Link href="/about"><b>ABOUT</b></Nav.Link>
-                            <Nav.Link href="/work"><b>PORTFOLIO</b></Nav.Link>
                             <Nav.Link href="/resume"><b>RESUME</b></Nav.Link>
                         </Nav>
                     </Navbar.Collapse>
