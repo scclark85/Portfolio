@@ -45,7 +45,7 @@ class Projects extends Component {
                                 <img class="card-img-top" src="/images/BACC-Restoration.png" alt="" /></a>
                             <div className="card-body"
                                 style={{
-                                    backgroundColor: "rgb(47, 104, 71, .2)",
+                                    backgroundColor: "rgb(140, 114, 114, .2)",
                                     color: "rgb(49, 49, 49)"
                                 }}>
                                 <h4 className="card-title">
@@ -74,7 +74,7 @@ class Projects extends Component {
                                 <img class="card-img-top" src="/images/GameAdvisor.png" alt="" /></a>
                             <div className="card-body"
                                 style={{
-                                    backgroundColor: "rgb(222, 226, 224)",
+                                    backgroundColor: "rgb(140, 114, 114, .2)",
                                     color: "rgb(49, 49, 49)"
                                 }}>
                                 <h4 className="card-title">
@@ -106,7 +106,7 @@ class Projects extends Component {
                                 <img class="card-img-top" src="/images/Recipe-Town.png" alt="" /></a>
                             <div className="card-body"
                                 style={{
-                                    backgroundColor: "rgb(173, 3, 3, .2)",
+                                    backgroundColor: "rgb(140, 114, 114, .2)",
                                     color: "rgb(49, 49, 49)"
                                 }}>
                                 <h4 className="card-title">
@@ -135,7 +135,7 @@ class Projects extends Component {
                                 <img class="card-img-top" src="/images/Bamazon.png" alt="" /></a>
                             <div className="card-body"
                                 style={{
-                                    backgroundColor: "rgb(255, 252, 104, .2)",
+                                    backgroundColor: "rgb(140, 114, 114, .2)",
                                     color: "rgb(49, 49, 49)"
                                 }}>
                                 <h4 className="card-title">
@@ -164,7 +164,7 @@ class Projects extends Component {
                                 <img class="card-img-top" src="/images/Liri Node.png" alt="" /></a>
                             <div className="card-body"
                                 style={{
-                                    backgroundColor: "rgb(10, 16, 201, .2)",
+                                    backgroundColor: "rgb(140, 114, 114, .2)",
                                     color: "rgb(49, 49, 49)"
                                 }}>
                                 <h4 className="card-title">
@@ -196,7 +196,7 @@ class Projects extends Component {
                                 <img class="card-img-top" src="/images/Crystals Collector.png" alt="" /></a>
                             <div className="card-body"
                                 style={{
-                                    backgroundColor: "rgb(255, 104, 227, .2)",
+                                    backgroundColor: "rgb(140, 114, 114, .2)",
                                     color: "rgb(49, 49, 49)"
                                 }}>
                                 <h4 className="card-title">
@@ -225,7 +225,7 @@ class Projects extends Component {
                                 <img class="card-img-top" src="/images/BACC-Restoration.png" alt="" /></a>
                             <div className="card-body"
                                 style={{
-                                    backgroundColor: "rgb(47, 104, 71, .2)",
+                                    backgroundColor: "rgb(140, 114, 114, .2)",
                                     color: "rgb(49, 49, 49)"
                                 }}>
                                 <h4 className="card-title">
@@ -254,7 +254,7 @@ class Projects extends Component {
                                 <img class="card-img-top" src="/images/GameAdvisor.png" alt="" /></a>
                             <div className="card-body"
                                 style={{
-                                    backgroundColor: "rgb(222, 226, 224)",
+                                    backgroundColor: "rgb(140, 114, 114, .2)",
                                     color: "rgb(49, 49, 49)"
                                 }}>
                                 <h4 className="card-title">
