@@ -11,7 +11,7 @@ class FullNav extends Component {
                     <Navbar.Brand href="/">
                         <img
                             className="nav_logo"
-                            src="/images/Logo Transparent.png"
+                            src="/images/Logo-2.png"
                             alt="nav_logo"
                         />
                     </Navbar.Brand>
