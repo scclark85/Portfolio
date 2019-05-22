@@ -76,7 +76,7 @@ class About extends Component {
                             <div className="col-lg-6 order-lg-1">
                                 <div className="p-5">
                                     <h2 className="display-4" id="about">Who is Sarah?</h2>
-                                    <p id="about">If I’m not building web applications, I’m most likely hanging out with my two little pups, Foxy and Mia, and my family and friends, checking out new restaurants in the area, enjoying some wine, or just relaxing and catching up on my favorite shows.  I also enjoy hiking and traveling, which has always inspired me.</p>
+                                    <p id="about">If I’m not building web applications, I’m most likely hanging out with my two little pups, Foxy and Mia, and my family and friends, checking out new restaurants in the area, enjoying some wine, or just relaxing and catching up on my favorite shows.  I also enjoy hiking and traveling, which have always inspired me.</p>
                                     <p id="about"><b>Please reach out if you’d like to learn more and connect. Thank you for stopping by!</b></p>
                                     <br />
 
