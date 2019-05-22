@@ -41,7 +41,7 @@ class About extends Component {
                             </div>
                             <div className="col-lg-6">
                                 <div className="p-5">
-                                    <h2 className="display-4" id="about">How it all began</h2>
+                                    <h2 className="display-4" id="about">How it all began...</h2>
                                     <p id="about">During my school years in Racine, WI, I realized that I have a visual eye and a passion for creative problem-solving. My interest in design and architecture only increased while living in Mexico City and Milan and having the opportunity to travel to various places around the world.</p>
                                     <p id="about">To build my creative expertise, I graduated with a Bachelor of Fine Arts in Interior Design in Chicago. Throughout my career, I’ve had strong learning experiences ranging from design consultation to customer service to sales to business management and entrepreneurship. These opportunities have made me the person I am today and have shaped where I want to go next.</p>
                                 </div>
