@@ -33,7 +33,7 @@ class Projects extends Component {
                                             Shore Parkway Wellness</a>
                                     </h4>
                                     <p className="card-text">The responsive web application is for a Brooklyn Doctor. Currently under construction with projected completion in June.</p>
-                                    <p className="card-text"><b>Technologies used:</b> React, CSS, JavaScript, npm-Modules, Nodejs, Nodemailer, Google Maps API, PhotoShop, and Adobe XD</p>
+                                    <p className="card-text"><b>Technologies used:</b> React, Bootstrap, CSS, JavaScript, npm-Modules, Nodejs, Nodemailer, Google Maps API, PhotoShop, and Adobe XD</p>
                                     <p className="card-text"><b>Involvement:</b> Overseeing entire project, strengthening my React skills, and working to add online booking feature.</p>
                                     <p className="card-text"><b>Please click on image to view a demo or project title for the GitHub page.</b></p>
                                 </div>
@@ -62,7 +62,7 @@ class Projects extends Component {
                                             BACC Restoration</a>
                                     </h4>
                                     <p className="card-text">The responsive web application is for a contractor in Wisconsin. Currently under construction with projected completion in June.</p>
-                                    <p className="card-text"><b>Technologies used:</b> React, CSS, JavaScript, npm-Modules, Nodejs, Nodemailer, and PhotoShop</p>
+                                    <p className="card-text"><b>Technologies used:</b> React, Bootstrap, CSS, JavaScript, npm-Modules, Nodejs, Nodemailer, and PhotoShop</p>
                                     <p className="card-text"><b>Involvement:</b> Overseeing entire project and strengthening my skills in React and Nodemailer.</p>
                                     <p className="card-text"><b>Please click on image to view a demo or project title for GitHub page.</b></p>
                                 </div>
@@ -213,7 +213,7 @@ class Projects extends Component {
                                             Crystals Collector</a>
                                     </h4>
                                     <p className="card-text">The interactive game consists of four crystals.  Each crystal has a number of points.  There's also a random number generated at the top.  Users win the game if their total score matches the random number.  Users lose if their total score goes above the number.  The value of each crystal is hidden until clicked.  Every time the game starts, the crystal values change.</p>
-                                    <p className="card-text"><b>Technologies used:</b> HTML, CSS, JQuery, and JavaScript</p>
+                                    <p className="card-text"><b>Technologies used:</b> HTML, Bootstrap, CSS, JQuery, and JavaScript</p>
                                     <p className="card-text"><b>Involvement:</b> Oversaw entire project.  Strengthened my skills in front-end development, JQuery and JavaScript.</p>
                                     <p className="card-text"><b>Please click on image to view a demo or project title for the GitHub page.</b></p>
                                 </div>
