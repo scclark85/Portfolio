@@ -11,7 +11,7 @@ class Main extends Component {
                     <div className="container">
                             <ul className="navbar-nav ml-auto">
                                 <li className="nav-item">
-                                    <a className="nav-link" id="main-link" href="/"><b>PORTFOLIO</b></a>
+                                    <a className="nav-link" id="portfolio-link" href="#work"><b>PORTFOLIO</b></a>
                                 </li>
                                 <li className="nav-item">
                                     <a className="nav-link" id="main-link" href="/about"><b>ABOUT</b></a>
