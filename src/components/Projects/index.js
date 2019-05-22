@@ -151,10 +151,10 @@ class Projects extends Component {
                                             }}>
                                             Bamazon</a>
                                     </h4>
-                                    <p className="card-text">Bamazon is an Amazon-like store-front. The application presents two interfaces: customer and manager. Customers see a table containing available products along with department, price and stock quantity. If customers enter an invalid ID, they will notified. A final reciept is provided at purchase.  Managers can control inventory and add items to inventory.</p>
+                                    <p className="card-text">Bamazon is an Amazon-like store-front. The application presents two interfaces: customer and manager. Customers see a table containing available products along with department, price and stock quantity. If customers enter an invalid ID, they will be notified. A final reciept is provided at purchase.  Managers can control inventory and add items to inventory.</p>
                                     <p className="card-text"><b>Technologies used:</b> Node.js and MySQL</p>
                                     <p className="card-text"><b>Involvement:</b> Oversaw entire project.  Strengthened my skills in back-end development.</p>
-                                    <p className="card-text"><b>Please click on image to see a demo or project title the GitHub page.</b></p>
+                                    <p className="card-text"><b>Please click on image to see a demo or project title for the GitHub page.</b></p>
                                 </div>
                             </div>
                         </div>
@@ -183,7 +183,7 @@ class Projects extends Component {
                                     <p className="card-text">LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives back data. LIRI searches Spotify for songs, Bands in Town for concerts, and OMDB for movies.</p>
                                     <p className="card-text"><b>Technologies used:</b>JavaScript, Nodejs, npm-Modules (Node-Spotify-API), Moment, DotEnv, Axios, APIs for OMDB and Bands in Town</p>
                                     <p className="card-text"><b>Involvement:</b> Oversaw entire project.  Strengthened my skills in APIs and Nodejs.</p>
-                                    <p className="card-text"><b>Please click on image view demo (there is sound) or project title for the GitHub page.</b></p>
+                                    <p className="card-text"><b>Please click on image to view a demo (there is sound) or project title for the GitHub page.</b></p>
                                 </div>
                             </div>
                         </div>
