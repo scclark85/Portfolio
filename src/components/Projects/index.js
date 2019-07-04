@@ -14,7 +14,7 @@ class Projects extends Component {
                     <div className="row">
                         <div className="col-lg-4 col-sm-6 mb-4">
                             <div className="card h-100">
-                                <a href={"https://drive.google.com/file/d/1VL7iKlVljnQTqvyA8yqcNx_zSiYcLy6P/view?usp=sharing"}
+                                <a href={"https://naughty-hodgkin-4dced1.netlify.com/"}
                                     target="_blank"
                                     rel="noopener noreferrer">
                                     <img className="card-img-top" src="/images/Shore-Pkw-Wellness.png" alt="shore-pkwy" /></a>
@@ -35,7 +35,7 @@ class Projects extends Component {
                                     <p className="card-text">The responsive web application is for a Brooklyn Doctor. Currently under construction with projected completion in July.</p>
                                     <p className="card-text"><b>Technologies used:</b> React, Bootstrap, CSS, JavaScript, npm-Modules, Nodejs, Nodemailer, Google Maps API, PhotoShop, and Adobe XD</p>
                                     <p className="card-text"><b>Involvement:</b> Overseeing entire project, strengthening my React skills, and working to add online booking feature.</p>
-                                    <p className="card-text"><b>Please click on image to view a demo or project title for the GitHub page.</b></p>
+                                    <p className="card-text"><b>Please click on image to view site demo or project title for the GitHub page.</b></p>
                                 </div>
                             </div>
                         </div>

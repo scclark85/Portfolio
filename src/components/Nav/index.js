@@ -26,9 +26,9 @@ class FullNav extends Component {
                         </Nav>
                     </Navbar.Collapse>
                 </Navbar>
-            </div>
+                
         )
-    }
-}
-
+    } 
+} 
+ 
 export default FullNav
