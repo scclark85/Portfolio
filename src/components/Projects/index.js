@@ -43,7 +43,7 @@ class Projects extends Component {
                         {/* Project Two */}
                         <div className="col-lg-4 col-sm-6 mb-4">
                             <div className="card h-100">
-                                <a href={"https://drive.google.com/file/d/1l5F5lIOuyd1Q6bRxF2KZDf62k6MZMKmG/view?usp=sharing"}
+                                <a href={"https://laughing-meninsky-4b44eb.netlify.com/"}
                                     target="_blank"
                                     rel="noopener noreferrer">
                                     <img className="card-img-top" src="/images/BACC-Restoration.png" alt="" /></a>
@@ -53,7 +53,7 @@ class Projects extends Component {
                                         color: "rgb(49, 49, 49)"
                                     }}>
                                     <h4 className="card-title">
-                                        <a href={"https://github.com/scclark85/bacc-restoration"}
+                                        <a href={"https://github.com/scclark85/bacc"}
                                             target="_blank"
                                             rel="noopener noreferrer"
                                             style={{
