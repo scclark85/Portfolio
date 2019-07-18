@@ -14,7 +14,7 @@ class Projects extends Component {
                     <div className="row">
                         <div className="col-lg-4 col-sm-6 mb-4">
                             <div className="card h-100">
-                                <a href={"https://naughty-hodgkin-4dced1.netlify.com/"}
+                                <a href={" https://agile-citadel-20170.herokuapp.com/"}
                                     target="_blank"
                                     rel="noopener noreferrer">
                                     <img className="card-img-top" src="/images/Shore-Pkw-Wellness.png" alt="shore-pkwy" /></a>
