@@ -41,7 +41,7 @@ class Projects extends Component {
                         </div>
 
                         {/* Project Two */}
-                        <div className="col-lg-4 col-sm-6 mb-4">
+                        {/* <div className="col-lg-4 col-sm-6 mb-4">
                             <div className="card h-100">
                                 <a href={"https://laughing-meninsky-4b44eb.netlify.com/"}
                                     target="_blank"
@@ -67,7 +67,7 @@ class Projects extends Component {
                                     <p className="card-text"><b>Please click on image to view a demo or project title for GitHub page.</b></p>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
 
                         {/* Project Three */}
                         <div className="col-lg-4 col-sm-6 mb-4">
